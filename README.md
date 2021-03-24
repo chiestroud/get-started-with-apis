@@ -12,9 +12,5 @@ This repo is a few handpicked API lessons you can do to get familiar with some s
 - [Joke Generator](./joke-generator.md)
 - [Lyrics Generator](./lyrics.md)
 - [Open Weather API](./weather.md)
-
-
-## Contributors
-- [Dr. Teresa Vasquez](https://github.com/drteresavasquez)
-- Aja Washington
-- Trinity Christiana
+- [Lord of the Rings](./lotr.md)
+- [The Movie Database](./moviedb-api.md)
